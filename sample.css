@@ -7,8 +7,9 @@ no-repeat
 h1 {
   font-size: 40px;
   font-weight: bold;
-  font-family: "Times New Roman", Times, serif;
+  font-family: "Arial", sans-serif;
   color: #333333; 
   text-shadow: 2px 2px 4px #000000;
 }
+
 
